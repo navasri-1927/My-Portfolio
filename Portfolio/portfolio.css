@@ -1,0 +1,130 @@
+.nav{
+    background-image:URL(https://wallpapers.com/images/hd/professional-background-2b3p57557lfg0y5g.jpg) ;
+    height: 400px;
+    background-position: cover;
+    background-size: center;
+}
+
+.name{
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 120px;
+}
+#web{
+    font-size: 25px;
+    color:lightseagreen;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.img{
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: -100px;
+}
+.glad{
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size: 16px;
+}
+span{
+    margin-left: 20px;
+}
+.about{
+    color:darkcyan;
+}
+.me{
+    line-height:45px;
+    text-align: justify;
+    font-size: 18px;
+}
+.back{
+    background-image:URL(https://wallpapers.com/images/hd/professional-background-2b3p57557lfg0y5g.jpg);
+     margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border: 10px;
+    border-radius: 25px;
+    border-color:blue;
+}
+.para{
+    text-align: justify;
+}
+.margin{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.Education{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+}
+.ground{
+   background-image:URL(https://wallpapers.com/images/hd/professional-background-2b3p57557lfg0y5g.jpg);
+   margin-left: 150px;
+   margin-right: 150px;
+   border: 2px;
+   border-radius: 20px;
+
+}
+.line{
+    line-height: 50px;
+}
+.t-skill{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+
+}
+.frontend{
+    
+   background-image:URL(https://wallpapers.com/images/hd/professional-background-2b3p57557lfg0y5g.jpg);
+   padding: 20px;
+   border: 2px;
+   border-radius: 10px;
+   background-position: cover;
+
+}
+.soft{
+    margin-right: 120px;
+}
+.contact{
+    display: flex;
+    justify-content:center;
+    margin-left: 80px;
+    margin-right:80PX ;
+    background-image:URL(https://wallpapers.com/images/hd/professional-background-2b3p57557lfg0y5g.jpg);
+   padding: 20px;
+   border: 2px;
+   border-radius: 10px;
+   background-position: cover;
+    
+}
+.thank{
+    
+    margin-right: 100px;
+}
+footer{
+     background-image:URL(https://wallpapers.com/images/hd/professional-background-2b3p57557lfg0y5g.jpg);
+   padding: 20px;
+   border: 2px;
+   background-position: cover;
+}
+body{
+    @media(min-width:300px){
+    @media(min-width:600px) {
+        @media(min-width:800px){
+            @media(min-width:1000px){
+
+            }
+
+        }
+        
+    }    
+    }
+}
